@@ -12,7 +12,4 @@ This repository explores recursion, iterative approaches, time/space complexity 
 - **Linear Search:** Tracking step counts across best, average, and worst-case scenarios.
 - **Factorial:** Comparing `while`-loop based iteration with recursive call stacks.
 
-## How to Run
 
-```bash
-python "exercise 1.py"
